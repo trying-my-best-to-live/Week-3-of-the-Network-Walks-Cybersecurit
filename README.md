@@ -176,16 +176,6 @@ or against systems the author owns. Unauthorised access is a criminal offence.
 
 ---
 
-## 👤 Author
-
-**Mazen Ashraf**
-Cybersecurity Intern — Network Walks
-
-LinkedIn: [your-linkedin-url]
-GitHub: [your-github-username]
-
----
-
 ## 📌 Project Information
 
 **Program:** Network Walks Cybersecurity Internship · **Week:** 03 ·
